@@ -1,3 +1,11 @@
+> [!CAUTION]
+> **Upstream Microsoft tool retained for provenance**
+>
+> CamCore retains this repository as a fork of [Microsoft's Win32 Content Prep Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool). CamCore claims no ownership of the Microsoft software, and the presence of source or binaries here does not imply a CamCore deployment, approval, support contract or verified live state. The Microsoft licence terms referenced below govern use of the tool and must be reviewed and accepted before use. All upstream legal and usage text is preserved below.
+
+---
+
+
 # Microsoft Win32 Content Prep Tool
 
 Manage Windows Apps (.intunewin) with Intune
